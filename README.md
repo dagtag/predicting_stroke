@@ -8,3 +8,6 @@ I cleaned and explored a Kaggle stroke [dataset](https://www.kaggle.com/fedesori
 
 ## Contributors
 - [Alyssa Murray](https://github.com/dagtag)
+
+## Future
+I want to work on deploying this to a web app where users could enter their health data and predict the likelyhood of a stroke.  A more robust dataset would be useful as well.
